@@ -1,0 +1,58 @@
+ID Paciente,Diagnóstico Clínico,Mutaciones cDNA,Mutaciones protein,Gen,Genotipo,Unnamed: 6,Diagnóstico Genético,Anotaciones TXT
+RP1772,Síndrome de Usher,c.1414-1 G>T,,GRN,Hom,,True,False
+RP1974,Síndrome de Usher,,,,,,False,False
+RP2033,Síndrome de Usher,,,,,,False,False
+RP2036,Síndrome de Usher,,,,,,False,False
+RP2057,Síndrome de Usher,c.3567delA,p.Gly1190Aspfs*39,EYS,Het,,True,False
+,,c.8779T>C,p.Cys2927Arg,EYS,Het,,,
+RP1879,Síndrome de Usher,c.2939A>T,p.Asn980Ile,CNGB1,Hom,Hermanos,True,False
+RP1830,Síndrome de Usher,c.2939A>T,p.Asn980Ile,CNGB1,Hom,,True,False
+RP924,Síndrome de Usher,c.58A>T,p.Lys20*,ASIC5,Hom,,True,False
+RP132,Distrofia de Retina,,,,,,False,True
+RP163,Distrofia de Retina,,,,,,False,True
+RP50,Distrofia de Retina,,,,,,False,True
+RP637,Distrofia de Retina,,p.(Arg303His),AGBL5,Het,Hermanos,True,True
+RP639,Distrofia de Retina,,p.(Gly522Aspfs*4),AGBL5,Het,,True,True
+RP677,Distrofia de Retina,,,,,,False,True
+RPN-1059,Distrofia de Retina,,,,,,False,True
+RPN-1278,Distrofia de Retina,,,,,,False,True
+RPN15,Distrofia de Retina,,p.(Gly219Val),PANK2,Het,Hermanos,True,True
+RPN16,Distrofia de Retina,,p.(Cys132Phe),PANK2,Het,,True,True
+RP1612,Síndrome de Usher,,,,,,False,True
+RP1636,Síndrome de Usher,,,,,,False,True
+RPN179,Distrofia de Retina,,,,,,False,True
+RPN184,Distrofia de Retina,,,,,,False,True
+RPN191,Distrofia de Retina,,,,,,False,True
+RPN2017,Síndrome de Usher,,,,,,False,True
+RPN217,Distrofia de Retina,,,,,,False,True
+RPN218,Distrofia de Retina,,,,,,False,True
+RPN226,Distrofia de Retina,,,,,,False,True
+RPN269,Distrofia de Retina,,,,,,False,True
+RPN284,Distrofia de Retina,,,,,,False,True
+RPN293,Distrofia de Retina,,,,,,False,True
+RPN295,Distrofia de Retina,,,,,,False,True
+RPN299,Distrofia de Retina,,,,,,False,True
+RPN303,Distrofia de Retina,,,,,,False,True
+RPN311,Distrofia de Retina,,,,,,False,True
+RPN315,Distrofia de Retina,,,,,,False,True
+RPN318,Distrofia de Retina,,,,,,False,True
+RPN325,Distrofia de Retina,,,,,,False,True
+RPN329,Distrofia de Retina,,,,,,False,True
+RPN357,Distrofia de Retina,c.527+1G>A,,MVK,Het,Hermanos,True,True
+RPN358,Distrofia de Retina,,p.(Ala334Thr),MVK,Het,,True,True
+RPN387,Distrofia de Retina,,,,,,False,True
+RPN404,Distrofia de Retina,,,,,,False,True
+RPN407,Distrofia de Retina,,,,,,False,True
+RPN441,Distrofia de Retina,,,,,,False,True
+RPN464,Distrofia de Retina,,p.(Gly212Arg),IFT140,Het,Hermanos,True,True
+RPN465,Distrofia de Retina,,p.(Ser561Ile),IFT140,Het,,True,True
+RPN472,Distrofia de Retina,,,,,,False,True
+RPN492,Distrofia de Retina,,,,,,False,True
+RPN493,Distrofia de Retina,,,,,,False,True
+RPN512,Distrofia de Retina,,,,,,False,True
+RPN520,Distrofia de Retina,,,,,,False,True
+RPN641,Distrofia de Retina,,,,,,False,True
+RPN642,Distrofia de Retina,,,,,,False,True
+RPN2027,Síndrome de Usher,,,,,,False,True
+RP1692,Síndrome de Usher,c.598+1delG,,REEP6,Hom,Variante que explicaría la pérdida visual,True,False
+,,c.5383+5_5383+8delGTGA,,TECTA,Het,Variante que explicaría la hipoacusia,True,
