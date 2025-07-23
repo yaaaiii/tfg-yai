@@ -17,17 +17,6 @@ Este Trabajo de Fin de Grado propone una solución basada en redes neuronales pa
 * Jupyter Notebooks
 * Visualización: Matplotlib, Seaborn
 
-## 📁 Estructura del repositorio
-
-```
-.
-├── notebooks/              # Análisis exploratorio, modelado y resultados
-├── data/                   # Datos simulados o anonimizados
-├── src/                    # Código fuente y funciones auxiliares
-├── requirements.txt        # Librerías necesarias
-└── README.md
-```
-
 ## 🔍 Descripción técnica
 
 El proyecto parte de un conjunto de datos genómicos de 55 pacientes con diagnóstico de retinosis pigmentaria. Los datos son altamente desbalanceados, lo que exige el uso de técnicas como SMOTETomek, adición de ruido y regularización (L2). El modelo final es una red neuronal convolucional adaptada a datos tabulares, entrenada para predecir si una mutación es patogénica.
