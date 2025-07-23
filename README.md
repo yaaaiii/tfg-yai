@@ -44,7 +44,7 @@ El modelo demuestra que es viable aplicar redes neuronales convolucionales en pr
 
 ## 📄 Informe
 
-Puedes consultar el informe completo en: [`TFG_Yaiza_Escribano.pdf`](docs/TFG_Yaiza_Escribano.pdf)
+Puedes consultar el informe completo en: [`TFG_Yaiza_Escribano.pdf`](/TFG.pdf)
 
 ## 👩‍💻 Autora
 
@@ -54,11 +54,6 @@ Yaiza Escribano de la Torre — Ingeniería Informática, UPV
 
 `machine learning`, `rare diseases`, `neural networks`, `genomics`, `retinitis pigmentosa`, `SMOTETomek`, `CNN`, `BinaryFocalCrossentropy`
 
-## 🔗 Enlace
-
-[Repositorio en GitHub](https://github.com/yaaaiii/tfg-yai)
-
----
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
